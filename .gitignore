@@ -1,0 +1,10 @@
+build/*
+!build/README.txt
+MPLABX.X/build/*
+MPLABX.X/dist/*
+MPLABX.X/debug/*
+MPLABX.X/*.obj
+MPLABX.X/funclist
+# MPLABX.X/nbproject/Makefile-genesis.properties
+# MPLABX.X/nbproject/configuration.xml
+MPLABX.X/nbproject/*
